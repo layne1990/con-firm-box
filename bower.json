@@ -1,0 +1,20 @@
+{
+  "name": "con-firm-box",
+  "version": "0.0.0",
+  "homepage": "https://github.com/layne1990/con-firm-box",
+  "authors": [
+    "layne1990 <layne1990@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
